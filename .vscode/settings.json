@@ -1,0 +1,11 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/rubel/Desktop/myenv/bin/python3",
+    "python.linting.pylintArgs": [
+                                "--load-plugins=pylint_django",
+                                "--errors-only"]
+        
+
+
+}
